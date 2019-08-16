@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/BaBWSUK.jpg)
 ### A tool for making a hot reload development server for UI projects.
-#### Features
--------
+
+### Features
 - Development server creation.
 - Hot reaload (Auto reload the server when any changes made).
 - SASS support.
@@ -10,8 +10,7 @@
 - Babel transplier (transpile Modern ES6 to ES5).
 - All tasks enerates output for your project ready for production.
 
-#### Quick start
--------
+### Quick start
 1. Make sure that you have Node.js, npm and Gulp installed globally.
 2. Clone this repo using git clone.
 3. Move to the appropriate directory.
