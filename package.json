@@ -1,0 +1,25 @@
+{
+  "name": "hot-reload-development-server",
+  "version": "1.0.0",
+  "description": "A tool for making a hot reload development server for UI projects",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "del": "^5.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-connect": "^5.7.0",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "keywords": [],
+  "author": "Zyad Yasser",
+  "license": "MIT"
+}
